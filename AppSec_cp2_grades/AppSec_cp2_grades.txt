@@ -1,7 +1,7 @@
 AppSec checkpoint 2 grade for changml2 (partner: tarasa2)
 
-1.2.1  : 0/8
-Comment : 'Got "Hi taraasa2! Your grade is A+.\n".'
+1.2.1  : 6/8
+Comment : 'manual regrade -pmurley'
 
 1.2.2  : 8/8
 Comment : ''
@@ -33,4 +33,4 @@ Comment : 'no submission'
 1.2.11  : 10/10
 Comment : ''
 
-total   : 82/100
+total   : 88/100
