@@ -1,0 +1,13 @@
+grade report for changml2 (partner: )
+
+Testing md5_length_extension	0.0/20	Solution files are empty. Aborting.
+
+Testing md5_goodevil_collision	0.0/20	Solution files are empty. Aborting.
+
+Testing padding_oracle	0.0/20	Solution files are empty. Aborting.
+
+Testing ps_and_qs	0.0/20	Solution files are empty. Aborting.
+
+Testing cert_collision	0.0/20	Solution files are empty. Aborting.
+
+TOTAL: 0/100
